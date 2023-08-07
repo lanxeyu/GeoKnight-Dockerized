@@ -1,5 +1,7 @@
 # GeoKnight
 
+![Game Preview](preview.png)
+
 ### The world is fracturing!
 
 *This is the Dockerized version containing the GeoKnight [client](https://github.com/lanxeyu/GeoKnight-Client) and [server](https://github.com/lanxeyu/GeoKnight-Server) repos as submodules.*
