@@ -18,10 +18,10 @@ You can also store your score at the end of each game!
 
 Want to see it for yourself?
 
-1. Open your GitBash terminal
-2. Create a folder: ```mkdir *directory-name*```
-3. Change into that directory: ```cd *directory-name*```
-4. Clone the repo: ```git clone git@github.com:emptybagelman/GeoKnight-Dockerized.git```
-5. Run command:
-```docker compose up```    
-6. In your browser, navigate to [localhost:8080](http://localhost:8080/)
+1. Install [Docker](https://www.docker.com/)
+2. Open GitBash terminal
+3. Create a directory: ```mkdir <directory-name>```
+4. Change into that directory: ```cd <directory-name>```
+5. Clone the repo: ```git clone git@github.com:emptybagelman/GeoKnight-Dockerized.git```
+6. Run command: ```docker compose up```    
+7. In a browser, navigate to [localhost:8080](http://localhost:8080/)
