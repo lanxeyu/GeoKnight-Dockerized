@@ -1,11 +1,5 @@
 # GeoKnight
 
-
-## How to Run
-
-
-# GeoKnight
-
 ### The world is fracturing!
 
 *This is the Dockerized version containing the GeoKnight [client](https://github.com/lanxeyu/GeoKnight-Client) and [server](https://github.com/lanxeyu/GeoKnight-Server) repos as submodules.*
@@ -16,7 +10,7 @@ The school system failed, and it's up to you with your wealth of geographic know
 **GeoKnight** is a round-based game, where the user has to answer questions to boost their stats to fight off the enemy invaders. Stats can be boosted by choosing one of three categories in which, if answered correctly, grants you an increase to that respective stat.
 You can also store your score at the end of each game!
 
-Want to see it for yourself?
+## How to Play
 
 1. Install [Docker](https://www.docker.com/)
 2. Open GitBash terminal
