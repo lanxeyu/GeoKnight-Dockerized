@@ -21,3 +21,5 @@ You can also store your score at the end of each game!
 5. Clone the repo: ```git clone git@github.com:emptybagelman/GeoKnight-Dockerized.git```
 6. Run command: ```docker compose up```    
 7. In a browser, navigate to [localhost:8080](http://localhost:8080/)
+
+To stop running the client and server, in your terminal, press 'Ctrl + C'
