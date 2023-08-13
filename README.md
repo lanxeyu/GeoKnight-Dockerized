@@ -5,6 +5,8 @@
 ### The world is fracturing!
 
 *This is the Dockerized version containing the GeoKnight [client](https://github.com/lanxeyu/GeoKnight-Client) and [server](https://github.com/lanxeyu/GeoKnight-Server) repos as submodules.*
+Also playable on: [https://geoknight.onrender.com]
+
 
 Welcome to **_EdVenturers'_** group project, GeoKnight. 
 The school system failed, and it's up to you with your wealth of geographic knowledge to fend off the hordes to protect the world!
